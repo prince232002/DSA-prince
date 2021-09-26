@@ -1,4 +1,4 @@
-// here 
+// here in set insert of duplicate is not allowe
 #include<bits/stdc++.h>
 using namespace std;
 void print(set<string> &s){
