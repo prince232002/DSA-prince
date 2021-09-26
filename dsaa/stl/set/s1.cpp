@@ -1,4 +1,4 @@
-// here in set insert of duplicate is not allowe
+// here in set insert of duplicate is not allowed while in multiset is allowed 
 #include<bits/stdc++.h>
 using namespace std;
 void print(set<string> &s){
