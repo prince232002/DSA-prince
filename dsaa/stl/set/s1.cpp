@@ -9,6 +9,7 @@ int main(){
  set<string> s;
  s.insert("abc");   //O(log n)
  s.insert("gss");
+ s.insert("gss");
  s.insert("fss");
 auto it=s.find("abc");
 if(it!=s.end()){
