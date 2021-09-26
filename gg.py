@@ -1,1 +1,1 @@
-print("hgfgf")
+rint("hgfgf")
