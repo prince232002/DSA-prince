@@ -8,7 +8,7 @@ string isbalance(string s){
         if(symbols[bracket]<0){
             st.push(bracket);}
         else{
-            // if(st.empty()) return "NO";
+            if(st.empty()) return "NO";
             char top=st.top();
             st.pop();
             if(symbols[top]+symbols[bracket])
