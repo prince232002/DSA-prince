@@ -1,4 +1,4 @@
-//  parenthesis count balance using stack --------
+/*/  parenthesis count balance using stack --------
  #include<bits/stdc++.h>
 using namespace std;
 unordered_map<int ,int> symbols={{'[',-1},{'{',-2},{'(',-3},{']',1},{'}',2},{')',3}};
