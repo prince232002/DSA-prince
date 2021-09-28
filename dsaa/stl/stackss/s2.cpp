@@ -1,4 +1,4 @@
-/*/  parenthesis count balance using stack -------- so using stack we solve in O() */
+/*/  parenthesis count balance using stack -------- so using stack we solve in O(n) */
  #include<bits/stdc++.h>
 using namespace std;
 unordered_map<int ,int> symbols={{'[',-1},{'{',-2},{'(',-3},{']',1},{'}',2},{')',3}};
