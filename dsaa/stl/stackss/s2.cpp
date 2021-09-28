@@ -1,7 +1,6 @@
 //  parenthesis count balance using stack --------
  #include<bits/stdc++.h>
-using namespace std;
-ordered_map<int ,int> symbols={{'[',-1},{'{',-2},{'(',-3},{']',1},{'}',2},{')',3}};
+using namespace std_map<int ,int> symbols={{'[',-1},{'{',-2},{'(',-3},{']',1},{'}',2},{')',3}};
 string isbalance(string s){
     stack<char> st;
     for(char bracket:s){
