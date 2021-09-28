@@ -15,7 +15,7 @@ string isbalance(string s){
                return "NO";
             }
         }
-    if(st.empty()) return "YES";
+    // if(st.empty()) return "YES";
     return "NO";
 }
 int main(){
