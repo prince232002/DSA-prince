@@ -8,7 +8,7 @@ int main(){
  for(int i=0; i<n; i++){
      cin>>a[i];
       }
-      sort(a.begin()+2,a.end());
+      sort(a.begin(),a.end());
  for(int i=0; i<n; i++){
      cout<<a[i]<<" ";
      }
