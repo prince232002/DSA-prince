@@ -14,7 +14,7 @@ for (int j=i+1; j<i+1; i++)
 }
     // s+=1;
 }
-// return ;
+return 0;
  }
 
 int main()
