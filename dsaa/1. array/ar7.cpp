@@ -11,7 +11,7 @@ for (int i=1; i<=n; i++)
 }
 }
 int main(){
- int n=1,a[]={4,5,6,7,8,2,3,4,1};
+ int n=9,a[]={4,5,6,7,8,2,3,4,1};
  rotate(a,n);
 return 0;
 }
