@@ -16,6 +16,7 @@ int main(){
 return 0;
 }
 
+
 // #include<iostream>
 // using namespace std;
 // void rotate(int a[],int n )
