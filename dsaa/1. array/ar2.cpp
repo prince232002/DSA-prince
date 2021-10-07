@@ -1,4 +1,4 @@
-// program to get minmax from 
+// program to get minmax from array
 #include<iostream>
 using namespace std;
 struct Pair {
