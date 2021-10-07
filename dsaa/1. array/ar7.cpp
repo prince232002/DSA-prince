@@ -4,7 +4,7 @@ void rotate(int a[],int n )
 {
 int b[n];
 b[0]=a[n-1];
-for (int i=9; i<=n; i++)
+for (int i=; i<=n; i++)
 {
     b[i]=a[i-1];
     cout<<b[i-1]<<" ";
