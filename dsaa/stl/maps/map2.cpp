@@ -20,7 +20,7 @@ if(it==m.end()){
     cout<<"NO value";
 }
 else{
-    cout<<(*it).first<<" "<<(*it).second;
+    cout<<.first<<" "<<(*it).second;
     }
  print(m);
 }
