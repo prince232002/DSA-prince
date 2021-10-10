@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
  string  s="";
- s[]
+ s[0]
 }
