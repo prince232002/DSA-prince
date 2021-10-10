@@ -4,3 +4,4 @@ int main(){
  string s;
  s[2]="d";
 }
+
