@@ -5,4 +5,4 @@ int main(){
  s[2]="d";
 }
 onething that is special about me that i never take anything serious and never take the revenge because 
-i hate to fight and always make try to evolve the matter as possible as it can be get 
+i hate to fight and always make try to evolve the matter as possible as it can be get resolved 
