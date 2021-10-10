@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- string  s[5];
+ string  s[];
  s[2]="d";
 }
