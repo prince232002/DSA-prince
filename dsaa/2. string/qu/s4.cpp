@@ -14,6 +14,7 @@ if (str1.length() != str2.length())
 string temp = str1 + str1;
 return (temp.find(str2) != string::npos);
 }
+///
 
 /* Driver program to test areRotations */
 int main()
