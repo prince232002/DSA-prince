@@ -28,7 +28,7 @@
 // 			int flag = 1;
 
 // 			// Check palindrome                        // k iterates 
-// 			for (int k = 0; k < (j - i + 1) / 2; k++)
+// 			for (int k = 0; k < (j - i + 1) / 2; k++)  //
 // 				if (str[i + k] != str[j - k])
 // 					flag = 0;
 
