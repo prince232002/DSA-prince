@@ -117,7 +117,7 @@ int longestPalSubstr(string str)
 			// checking for sub-string from ith index to
 			// jth index iff str[i+1] to str[j-1] is a
 			// palindrome
-			if (table[i + 1][j - 1] && str[i] == str[j]) {  //mid string and 
+			if (table[i + 1][j - 1] && str[i] == str[j]) {  //mid string and corner 
 				table[i][j] = true;
 
 				if (k > maxLength) {
