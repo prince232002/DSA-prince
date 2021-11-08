@@ -13,7 +13,7 @@ void printSubStr(
 
 void longestPalSubstri(string str)
 {
-	int n = str.size(); 
+	int n = str.size();    
 
 	
 	bool table[n][n];
