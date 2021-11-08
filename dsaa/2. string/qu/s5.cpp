@@ -113,7 +113,7 @@ int longestPalSubstr(string str)
 			// Get the ending index of substring from
 			// starting index i and length k
 			int j = i + k - 1;   //cant be n as it varies for substring 
-                    // starting index 
+                    // starting index + 
 			// checking for sub-string from ith index to
 			// jth index iff str[i+1] to str[j-1] is a
 			// palindrome
