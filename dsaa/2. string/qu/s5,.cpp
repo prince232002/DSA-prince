@@ -12,7 +12,7 @@ void printSubStr(
 
 
 void longestPalSubstri(string str)
-{     
+{             
 	int n = str.size();      
 
 	
