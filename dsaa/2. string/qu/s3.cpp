@@ -10,7 +10,7 @@ void printDups(string str)
 	}
 
 	for (auto it : count) {
-		// if (it.second > 1)
+		if (it.second > 1)
 			cout << it.first << ", count = " << it.second
 				<< "\n";
 	}
