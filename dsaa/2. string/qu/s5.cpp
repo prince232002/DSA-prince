@@ -140,7 +140,6 @@ void longestPalSubstr(string str)
 int main()
 {
 	string str = "forgeeksskeegfor";
-	cout << "\nLength is: ";
 		 longestPalSubstr(str);
 	return 0;
 }
