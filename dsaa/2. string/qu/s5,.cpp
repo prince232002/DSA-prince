@@ -18,7 +18,7 @@ void longestPalSubstri(string str)
 	
 	bool table[n][n];
   
-	memset(table, 0, sizeof(table));
+	// memset(table, 0, sizeof(table));
 
     int cnt=0,i,j,g=0,maxLength=1,start=0;
 	for(g=0; g<n; g++)
