@@ -29,7 +29,7 @@ int main()
 	// output is set to null before passing in as a
 	// parameter
 	string output = "";
-	string input = "abcd";
+	string input = "abc";
     // cout<<input.substr(1);
 	printSubsequence(input, output);
 
