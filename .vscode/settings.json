@@ -28,5 +28,9 @@
             "password": "charvi2002",
             "connectionTimeout": 60
         }
-    ]
+    ],
+    "files.associations": {
+        "*html": "html",
+        "*.tcc": "cpp"
+    }
 }
