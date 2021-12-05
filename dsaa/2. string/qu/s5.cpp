@@ -132,7 +132,7 @@ int longestPalSubstr(string str)
 	printSubStr(str, start, start + maxLength - 1);
 
 	// return length of LPS
-	return maxLength;
+	cout>> maxLength;
 }
 
 // Driver Code
