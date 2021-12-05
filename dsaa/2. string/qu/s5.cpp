@@ -76,7 +76,7 @@ void printSubStr(
 // longest palindrome substring
 // It also returns the length of
 // the longest palindrome
-int longestPalSubstr(string str)
+void longestPalSubstr(string str)
 {
 	// get length of input string
 	int n = str.size();
