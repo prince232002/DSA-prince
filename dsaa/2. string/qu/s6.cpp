@@ -1,4 +1,4 @@
-// C++ program for the above approach 
+// C++ program for the above approach :o
 #include <bits/stdc++.h>
 using namespace std;
 
