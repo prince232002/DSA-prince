@@ -19,7 +19,7 @@ void printDups(string str)
 int main()
 {
 	string sgtr = "aatest string";
-	printDups(str);
+	printDups(sgtr);
 	return 0;
 }
 // This code is contributed by yashbeersingh42
