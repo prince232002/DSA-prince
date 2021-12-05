@@ -15,11 +15,11 @@ void printSubsequence(string input, string output)
 	// output is passed with including
 	// the Ist character of
 	// Input string
+	printSubsequence(input.substr(1), output);  //excluded input 
 
 	// output is passed without
 	// including the Ist character
 	// of Input string
-	printSubsequence(input.substr(1), output);  //excluded input 
 	printSubsequence(input.substr(1), output + input[0]); //included input 
 }
 
