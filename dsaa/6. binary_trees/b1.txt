@@ -5,4 +5,4 @@ binary tree : hum do humare do ,means each node have almost 2 children means can
             3. Tree is made of nodes and edges 
             4. n nodes => n-1 edges
             5. degree: is the highest degree of a node among all the nodes present in tree 
-              
+              ex : tree of 
