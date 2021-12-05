@@ -128,7 +128,7 @@ void longestPalSubstr(string str)
 		}
 	}
 
-	cout<< maxLength<<\n;
+	cout<< maxLength<</n;
 	cout << "Longest palindrome substring is: ";
 	printSubStr(str, start, start + maxLength - 1);
 
