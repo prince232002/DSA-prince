@@ -111,7 +111,7 @@ int longestPalSubstr(string str)
 		// Fix the starting index
 		for (int i = 0; i < n - k + 1; ++i) {
 			// j Get the ending index of substring from
-			// starting index i and length k
+			// starting index i and length k -1
 			int j = i + k - 1;   //cant be n as it varies for substring 
                     // starting index + substring  length -1
 			// checking for sub-string from ith index to
