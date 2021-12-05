@@ -140,6 +140,6 @@ void longestPalSubstr(string str)
 int main()
 {
 	string str = "forgeeksskeegfor";
-     longestPalSubstr(str);
+    longestPalSubstr(str);
 	return 0;
 }
