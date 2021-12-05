@@ -140,6 +140,6 @@ int main()
 {
 	string str = "forgeeksskeegfor";
 	cout << "\nLength is: "
-		<< longestPalSubstr(str);
+		 longestPalSubstr(str);
 	return 0;
 }
