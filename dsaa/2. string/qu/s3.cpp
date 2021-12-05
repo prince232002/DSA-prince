@@ -9,7 +9,7 @@ void printDups(string str)
 		count[str[i]]++;
 	}
 
-	for (auto it : count) {
+	for (reauto it : count) {
 		if (it.second > 1)
 			cout << it.first << ", count = " << it.second
 				<< "\n";
