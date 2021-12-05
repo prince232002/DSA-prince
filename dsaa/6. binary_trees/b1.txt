@@ -1,4 +1,4 @@
 def:
 binary tree : hum do humare do ,means each node have almost 2 children means can be less than two also but not
              more than 2
-            
+            2
