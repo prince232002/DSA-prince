@@ -3,4 +3,4 @@ binary tree : hum do humare do ,means each node have almost 2 children means can
              more than 2
             2. Tree of degree 2 nodes can have 0,1 or 2 children
             3. Tree is made of nodes and edges 
-            4. n nodes =>
+            4. n nodes => n-1 edges
