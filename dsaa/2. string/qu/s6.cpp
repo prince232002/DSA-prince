@@ -9,7 +9,7 @@ void printSubsequence(string input, string output)
 	// if the input is empty print the output string
 	if (input.empty()) {
 		cout << output << endl;
-		return;
+		
 	}
       
 	// output is passed with including
