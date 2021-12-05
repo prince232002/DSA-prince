@@ -12,7 +12,7 @@ if (str1.length() != str2.length())
 		return false;
 
 string temp = str1 + str1;
-return (temp.find(str2) != reverse);
+return (temp.find(str2) != reverse());
 }
 //npos means till the end of the string , as return value it indicate no matches 
 
