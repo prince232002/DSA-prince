@@ -129,7 +129,7 @@ void longestPalSubstr(string str)
 	}
 
 	// return length of LPS
-	cout<< "length"<<maxLength<<endl;
+	cout<< "length is : "<<maxLength<<endl;
 
 	cout << "Longest palindrome substring is: ";
 	printSubStr(str, start, start + maxLength - 1);
