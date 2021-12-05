@@ -1,4 +1,4 @@
-// C++ program for the above approach : o(2 ^n) by recursion 
+// C++ program for the above approach : o(2 ^n) by recursion tree
 #include <bits/stdc++.h>
 using namespace std;
 
