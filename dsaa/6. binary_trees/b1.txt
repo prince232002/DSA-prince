@@ -1,2 +1,2 @@
 def:
-binary tree : hum do humare do ,means 
+binary tree : hum do humare do ,means each 
