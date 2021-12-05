@@ -1,2 +1,2 @@
 def:
-binary tree : hum do humare do ,means each node have almost 2 
+binary tree : hum do humare do ,means each node have almost 2 children 
