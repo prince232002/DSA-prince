@@ -5,7 +5,7 @@ using namespace std;
 
 /* Function checks if passed strings (str1
 and str2) are rotations of each other */
- areRotations(string str1, string str2)
+void areRotations(string str1, string str2)
 {
 /* Check if sizes of two strings are same */
 if (str1.length() != str2.length())
