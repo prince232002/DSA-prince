@@ -21,6 +21,7 @@ void printSubsequence(string input, string output)
 	// including the Ist character
 	// of Input string
 	printSubsequence(input.substr(1), output);
+	
 }
 
 // Driver code
