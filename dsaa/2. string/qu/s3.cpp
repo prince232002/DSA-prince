@@ -18,7 +18,7 @@ void printDups(string str)
 /* Driver code*/
 int main()
 {
-	string str = "test string";
+	string str = "aatest string";
 	printDups(str);
 	return 0;
 }
