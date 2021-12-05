@@ -1,4 +1,4 @@
-// C++ program for the above approach :o(2 ^n)
+// C++ program for the above approach : o(2 ^n)
 #include <bits/stdc++.h>
 using namespace std;
 
