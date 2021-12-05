@@ -18,8 +18,8 @@ void printDups(string str)
 /* Driver code*/
 int main()
 {
-	string sgtr = "aatest string";
-	printDups(sgtr);
+	string str = "aatest string";
+	printDups(str);
 	return 0;
 }
 // This code is contributed by yashbeersingh42
