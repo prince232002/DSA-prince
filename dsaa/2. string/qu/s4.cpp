@@ -13,7 +13,7 @@ if (str1.length() != str2.length())
 
 string temp = str1 + str1;
 return (temp.find(str2) != string::npos);
-return (str1)
+return (str1=)
 }
 //npos means till the end of the string , as return value it indicate no matches 
 
