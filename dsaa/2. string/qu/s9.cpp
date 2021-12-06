@@ -42,4 +42,4 @@ int main()
 }
 
 // This is code is contributed by rathbhupendra
-// NOTE https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/note
+// NOT https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/note
