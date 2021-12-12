@@ -42,7 +42,7 @@ class ZeroSumSubarray
     // Driver code
     public static void main(String arg[])
     {
-        int arr[] = { -3, 2, 3,-2,5, 1, 6 };
+        int arr[] = { -3, 2, 3,-2, 1, 6 };
         if (subArrayExists(arr))
             System.out.println(
                 "Found a subarray with 0 sum");
