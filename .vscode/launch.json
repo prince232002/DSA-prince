@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch ZeroSumSubarray",
+      "request": "launch",
+      "mainClass": "ZeroSumSubarray",
+      "projectName": "ooo_7c9718f2"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
