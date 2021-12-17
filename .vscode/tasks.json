@@ -93,7 +93,7 @@
         {
             "type": "shell",
             "label": "C/C++: g++.exe build active file",
-            "command": "C:\\MinGW\\bin\\g++.exe -g3 -Wall ${file}",
+            "command": "C:\\MinGW\\bin\\g++.exe -g3 -Wall ${file} ",
             "args": [
                 "-g3",
                 "-Wall",
