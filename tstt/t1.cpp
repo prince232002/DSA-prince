@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{
+{1
     int n;
 
     cout << "Enter a positive integer: ";
