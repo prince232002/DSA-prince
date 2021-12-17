@@ -32,6 +32,5 @@
     "files.associations": {
         "*html": "html",
         "*.tcc": "cpp"
-    },
-    "debug.showBreakpointsInOverviewRuler": true
+    }
 }
