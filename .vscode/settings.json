@@ -33,6 +33,5 @@
         "*html": "html",
         "*.tcc": "cpp"
     },
-    "debug.allowBreakpointsEverywhere": true,
     "debug.showBreakpointsInOverviewRuler": true
 }
