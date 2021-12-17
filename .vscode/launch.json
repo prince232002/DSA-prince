@@ -31,15 +31,12 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      // "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
-      "cwd": "C:\\MinGw\\bin",
+      "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
       "environment": [],
       "program": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      // "miDebuggerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gdb.exe",
-    "miDebuggerPath": "C:\\MinGw\\bin\\gdb.exe",
-
+      "miDebuggerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gdb.exe",
       "externalConsole": false,
       "setupCommands": [
         {
