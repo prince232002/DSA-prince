@@ -48,7 +48,7 @@
       "preLaunchTask": "C/C++: g++.exe build active file"
   }
 ]
-}
+},
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
