@@ -60,7 +60,7 @@
 
 
         {
-            "Label": "run g++.exe - Build and debug active file",
+            "name": "run g++.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname} \\${fileBasenameNoExtension}.exe",
