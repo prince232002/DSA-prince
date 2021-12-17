@@ -96,7 +96,7 @@
             "command": "C:\\MinGW\\bin\\g++.exe",
             "args": [
                 "-Wall",
-                "-g",
+                "-g3",
                 "${file}",
                 "-o",
                 "${fileDirname} \\ ${fileBasenameNoExtension}.exe"
