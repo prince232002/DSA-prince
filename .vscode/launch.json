@@ -22,7 +22,7 @@
     "name": "g++.exe - Build and debug active file",
     "type": "cppdbg",
     "request": "launch",
-    "program": "${fileBasenameNoExtension}.exe",
+    "program": ${fileBasenameNoExtension}.exe",
     "args": [],
     "stopAtEntry": false,
     "cwd": "${workspaceFolder}",
@@ -40,8 +40,7 @@
     "preLaunchTask": "C/C++: g++.exe build active file"
 }
 ]
-}
-,
+},
     {
       "type": "java",
       "name": "Launch ZeroSumSubarray",
