@@ -12,7 +12,7 @@ return x*power(x,n-1);
 }
 int main(){
  int n,x;
- cin>>x>>n;
-cout<<power(x,n);
+//  cin>>x>>n;
+cout<<power(2,7);
 return 0;
 }
