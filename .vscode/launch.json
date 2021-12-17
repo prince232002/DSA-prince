@@ -31,7 +31,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
-      "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
+      // "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
       "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
       "environment": [],
       "program": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque\\build\\Debug\\outDebug",
