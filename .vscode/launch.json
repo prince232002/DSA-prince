@@ -33,7 +33,7 @@
       "stopAtEntry": true,
       "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
       "environment": [],
-      "program": "c:r1.exe",
+      "program": "r1.exe",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gdb.exe",
