@@ -30,7 +30,7 @@
       "type": "cppdbg",
       "request": "launch",
       "args": [],
-      "stopAtEntry": ,
+      "stopAtEntry": tr,
       "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
       "environment": [],
       "program": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque\\build\\Debug\\outDebug",
