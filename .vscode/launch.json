@@ -22,7 +22,7 @@
     "name": "g++.exe - Build and debug active file",
     "type": "cppdbg",
     "request": "launch",
-    "program": "${fileDirname} 
+    "program": 
       \\${fileBasenameNoExtension}.exe",
     "args": [],
     "stopAtEntry": false,
