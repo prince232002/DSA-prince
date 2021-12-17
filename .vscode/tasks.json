@@ -95,8 +95,8 @@
             "label": "C/C++: g++.exe build active file",
             "command": "C:\\MinGW\\bin\\g++.exe",
             "args": [
-                "-Wall",
                 "-g3",
+                "-Wall",
                 "${file}",
                 "-o",
                 "${fileDirname} \\ ${fileBasenameNoExtension}.exe"
