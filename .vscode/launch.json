@@ -32,7 +32,7 @@
       "args": [],
       "stopAtEntry": true,
       // "cwd": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque",
-      "cwd": "c:\\MinGw\\bin,
+      "cwd": "c:\\MinGw\\bin",
       "environment": [],
       "program": "c:\\Users\\lenovo\\dsa\\dsaa\\stl\\deque\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
