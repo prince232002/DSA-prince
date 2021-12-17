@@ -110,8 +110,8 @@
                 "$gcc"
             ],
             "group": {
-                "isDefault": true,
-                "kind": "build"
+                "kind": "build",
+                "isDefault": true
             }
         }
     ]
