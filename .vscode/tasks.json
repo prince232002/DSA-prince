@@ -95,7 +95,6 @@
             "label": "C/C++: g++.exe build active file",
             "command": "C:\\MinGW\\bin\\g++.exe",
             "args": [
-                "-std=c++11",
                 "-O2",
                 "-Wall",
                 "-g",
