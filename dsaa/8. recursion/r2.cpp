@@ -13,6 +13,6 @@ return x*power(x,n-1);
 int main(){
  int n,x;
 //  cin>>x>>n;
-cout<<power();
+cout<<power(2,);
 return 0;
 }
