@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
  int a ,b;
- int f,n=;
+ int f,n=6;
  
 }
