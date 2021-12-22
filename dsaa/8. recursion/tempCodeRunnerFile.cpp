@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- int i, 
+ int i, a ,b ;
+  
 }
