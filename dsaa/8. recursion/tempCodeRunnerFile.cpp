@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
  int a,b ;
- for (i)
+ for (i=1)
 }
