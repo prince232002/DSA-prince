@@ -3,7 +3,7 @@ using namespace std;
 int main(){
  int a ,b;
  int f;
- if(n1){
+ if(n=1){
      return 1;
  }
 }
