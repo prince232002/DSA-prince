@@ -1,10 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- int a,b ,n;
- for(int i=0; i<n; i++){
-     for(int j=0; j<n; j++){
-
-     }
- }
+ int i, a=3343 ,b=545 ;
+  cin>>a>>b;
+  cout<<a<<" "<<b;
+  return 0;
 }
