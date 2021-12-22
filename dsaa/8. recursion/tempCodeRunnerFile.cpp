@@ -5,4 +5,4 @@ int main(){
  int f,n=6;
  
 }
-int rec(int a ,int b)
+int rec(int a ,int b){}
