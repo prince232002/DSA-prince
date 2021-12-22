@@ -3,5 +3,5 @@ using namespace std;
 int main(){
  int a ,b;
  int f;
- if(n>1)
+ if(n>1==)
 }
