@@ -4,6 +4,6 @@ int main(){
  int a ,b;
  int f;
  if(n>1){
-     return 
+     return 0
  }
 }
