@@ -18,7 +18,7 @@ int mfib(int n){
     int f[10];
     if(n<=1) return n;
     else{
-        if(f[n-2]==-1) f[n-2]=fib(n-2); 
+        if(f[n-2]==-1) f[n-2]=mfib(n-2); 
     }
 }
 int main(){
