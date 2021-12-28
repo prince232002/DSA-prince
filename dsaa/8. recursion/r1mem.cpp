@@ -3,7 +3,8 @@ using namespace std;
 
 int f[10];
 int rfib(int n){
-    if (n<=1)return 
+    if (n<=1)return n;
+    
 }
 int mfib(int n)
     { 
