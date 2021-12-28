@@ -30,6 +30,6 @@ int main(){
  cout<<b<<endl;
 //  cfib(a, b, n-2);
 // cout<<"nth term is "<< nfib(n);
-cout<< mfib(n,f);
+cout<< mfib(n,f[10]);
 return 0;
 }
