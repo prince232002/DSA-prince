@@ -18,6 +18,6 @@ int main(){
 int f[10],n;
 for(int i=0; i<n; i++){
     f[i]=-1;
-cout<<" mfib(5);
+cout<<" "mfib(5);
 }   
 }
