@@ -4,7 +4,7 @@ using namespace std;
 int f[10];
 int rfib(int n){
     if (n<=1)return n;
-    return rfib(n-2)+rfib(n-1)
+    return rfib(n-2)+rfib(n-1);
 }
 int mfib(int n)
     { 
