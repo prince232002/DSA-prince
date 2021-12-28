@@ -4,7 +4,7 @@ int main(){
 int n=6;
 int f[10];
 for(int i=0; i<n; i++){
-    
+    f
 }   
 }
 int mfib(int n)
