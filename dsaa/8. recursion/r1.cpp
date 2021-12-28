@@ -6,7 +6,7 @@ if(n==0){
     return;
     
 }
-retuc=a+b;
+return c=a+b;
 cout <<c<<endl;
 cfib(b,c, n-1);
 }
