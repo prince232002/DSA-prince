@@ -16,5 +16,5 @@ int main(){
 //  cout<<a<<endl;
 //  cout<<b<<endl;
  cout<<cfib(a, b, n);
-1
+
 }
