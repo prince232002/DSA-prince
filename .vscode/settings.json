@@ -31,6 +31,7 @@
     ],
     "files.associations": {
         "*html": "html",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "iostream": "cpp"
     }
 }
