@@ -14,7 +14,7 @@ c=a+b;
 cout <<c<<endl;
 cfib(b,c, n-1);
 }
-int mfib(int n,int f){
+int mfib(int n,int f[10]){
     // int f[10];
     if(n<=1) return n;
     else{
