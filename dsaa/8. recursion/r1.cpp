@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
-void cfib(int a , int b , int n){
+int cfib(int a , int b , int n){
 int c ;
 if(n==0){
-    return c=a+b;
+    return c;
     
 }
 c=a+b;
@@ -13,10 +13,9 @@ cfib(b,c, n-1);
 int main(){
  int a=0,b=1,n;
  cin>>n;
-
-//  cout<<a<<endl;
-//  cout<<b<<endl;
- cfib(a, b, n-2);
+ cout<<a<<endl;
+ cout<<b<<endl;
+ cout<< cfib(a, b, n);
 
 return 0;
 }
