@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+int f[10];
 int mfib(int n)
     { 
     if(n<=1){
@@ -13,7 +14,6 @@ int mfib(int n)
      return f[n-2]+f[n-1];
     }
 }
-int f[10];
 int main(){
 int f[10],n;
 for(int i=0; i<n; i++){
