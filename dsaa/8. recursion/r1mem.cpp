@@ -1,5 +1,5 @@
 int main{
-int 
+int n=
     int f[10];
     if(n<=1) return n;
     else{
