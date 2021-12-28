@@ -17,7 +17,7 @@ cfib(b,c, n-1);
 int mfib(int n){
     if(n<=1) return n;
     else{
-        if(f)
+        if(f[])
     }
 }
 int main(){
