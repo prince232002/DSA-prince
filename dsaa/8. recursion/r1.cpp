@@ -13,8 +13,8 @@ cfib(b,c, n-1);
 int main(){
  int a=0,b=1,n;
  cin>>n;
-//  cout<<a<<endl;
-//  cout<<b<<endl;
+ cout<<a<<endl;
+ cout<<b<<endl;
  cout<< cfib(a, b, n);
 
 return 0;
