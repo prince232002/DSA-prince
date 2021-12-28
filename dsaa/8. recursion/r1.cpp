@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int cfib(int a , int b , int n){
+void cfib(int a , int b , int n){
 int c ;
 if(n==0){
     return c=a+b;
