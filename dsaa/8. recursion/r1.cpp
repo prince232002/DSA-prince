@@ -24,7 +24,7 @@ int mfib(int n){
     }
 }
 int main(){
- int a=0,b=1,n,f;
+ int a=0,b=1,n,f[10];
  cin>>n;
  cout<<a<<endl;
  cout<<b<<endl;
