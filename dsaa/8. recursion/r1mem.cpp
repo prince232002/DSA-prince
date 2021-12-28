@@ -1,4 +1,5 @@
 int main(){
+int main(){
 int n=6;
     int f[10];
     if(n<=1) return n;
