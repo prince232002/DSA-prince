@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int nfib(int a=0int n){
+int nfib(int a=0, int bint n){
     
 }
 void cfib(int a , int b , int n){
