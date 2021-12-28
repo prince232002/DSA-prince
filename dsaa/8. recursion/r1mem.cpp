@@ -10,7 +10,7 @@ for(int i=0; i<n; i++){
 int mfib(int n)
     { 
     if(n<=1){
-    
+    f[n]
     return n;
     } 
     else{
