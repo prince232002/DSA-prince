@@ -7,7 +7,7 @@ if(n==0){
     
 }
 c=a+b;
-cout <<c<<endl;
+// cout <<c<<endl;
 cfib(b,c, n-1);
 }
 int main(){
