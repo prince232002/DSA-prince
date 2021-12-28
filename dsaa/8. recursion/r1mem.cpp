@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 int n=6;
 int f[10];
-   
+fori   
 }
 int mfib(int n)
     { 
