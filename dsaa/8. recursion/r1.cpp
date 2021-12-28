@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
-int nfib(int n){
-    if(n>=1) return n;
-    return nfib(n-1)+nfib(n-2);
-}
+// int nfib(int n){
+//     if(n>=1) return n;
+//     return nfib(n-1)+nfib(n-2);
+// }
 void cfib(int a , int b , int n){
 int c ;
 if(n==0){
