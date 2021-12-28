@@ -16,7 +16,7 @@ int mfib(int n)
     }
 }
 int main(){
-intn;
+int n;
 for(int i=0; i<n; i++){
     f[i]=-1;
 cout<<" "<< mfib(5);
