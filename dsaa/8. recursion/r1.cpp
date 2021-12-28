@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int nfib(int a=0, int b=1, int n){
-    if
+    if()
 }
 void cfib(int a , int b , int n){
 int c ;
