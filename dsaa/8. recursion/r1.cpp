@@ -14,8 +14,8 @@ c=a+b;
 cout <<c<<endl;
 cfib(b,c, n-1);
 }
-int mfib(int n,int f[10]){
-    // int f[10];
+int mfib(int n){
+    int f[10];
     if(n<=1) return n;
     else{
         if(f[n-2]==-1) f[n-2]=mfib(n-2); 
@@ -24,12 +24,12 @@ int mfib(int n,int f[10]){
     }
 }
 int main(){
- int a=0,b=1,n,f[10];
+ int a=0,b=1,n;
  cin>>n;
  cout<<a<<endl;
  cout<<b<<endl;
 //  cfib(a, b, n-2);
 // cout<<"nth term is "<< nfib(n);
-cout<< mfib(n,f[10]);
+cout<< mfib(n);
 return 0;
 }
