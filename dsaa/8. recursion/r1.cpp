@@ -15,7 +15,7 @@ int main(){
  cin>>n;
  cout<<a<<endl;
  cout<<b<<endl;
- cout<< cfib(a, b, n-2);
+ cout<< cfib(a, b, n);
 
 return 0;
 }
