@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 int n=6;
     int f[10];
-    int
+    int mfib(int )
     if(n<=1) return n;
     else{
         if(f[n-2]==-1) f[n-2]=mfib(n-2); 
