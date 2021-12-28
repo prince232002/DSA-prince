@@ -4,6 +4,7 @@ int main(){
 int n=6;
     int f[10];
     int mfib(int n)
+    
     if(n<=1) return n;
     else{
         if(f[n-2]==-1) f[n-2]=mfib(n-2); 
