@@ -2,7 +2,7 @@
 using namespace std;
 int cfib(int a , int b , int n){
 int c ;
-if(n==0|| n){
+if(n==0|| n==1){
     return n;
     
 }
