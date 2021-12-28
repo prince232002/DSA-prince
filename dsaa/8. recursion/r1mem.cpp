@@ -3,10 +3,10 @@ using namespace std;
 int main(){
 int n=6;
  int f[10];
- 
+
    
 }
-    int mfib(int n)
+int mfib(int n)
     { 
     if(n<=1) return n;
     else{
