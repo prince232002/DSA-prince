@@ -1,4 +1,5 @@
 int mfib(int n){
+int mfib(int n){
     int f[10];
     if(n<=1) return n;
     else{
