@@ -6,7 +6,7 @@ int f[10];
 for(int i=0; i<n; i++){
     f[i]=-1;
 }   
-}int f
+}int f[10]
 int mfib(int n)
     { 
     if(n<=1){
