@@ -15,7 +15,7 @@ cout <<c<<endl;
 cfib(b,c, n-1);
 }
 int mfib(int n){
-    int f[10]
+    int f[10];
     if(n<=1) return n;
     else{
         if(f[n-2]==-1) f[n-2]=fib(n-2); 
