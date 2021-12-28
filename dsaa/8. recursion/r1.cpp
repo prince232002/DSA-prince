@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
-int cfib(int a , int b , int n){
+void cfib(int a , int b , int n){
 int c ;
 if(n==0){
-    return 0;
+    return;
     
 }
-return c=a+b;
+return cc=a+b;
 cout <<c<<endl;
 cfib(b,c, n-1);
 }
@@ -15,7 +15,7 @@ int main(){
  cin>>n;
  cout<<a<<endl;
  cout<<b<<endl;
- cout<<cfib(a, b, n-1);
+ cfib(a, b, n);
 
 return 0;
 }
