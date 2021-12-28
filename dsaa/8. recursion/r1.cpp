@@ -2,7 +2,7 @@
 using namespace std;
 int nfib(int a=0, int b=1, int n){
     if(n>=1) return n;
-    return nfib(n-1)+nfib()
+    return nfib(n-1)+nfib(n-2);
 }
 void cfib(int a , int b , int n){
 int c ;
