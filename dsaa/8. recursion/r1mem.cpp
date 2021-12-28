@@ -2,7 +2,7 @@
 using namespace std;
 
 int f[10];
-int rfib
+int rfib(int n )
 int mfib(int n)
     { 
     if(n<=1){
