@@ -21,6 +21,6 @@ int main(){
  cout<<a<<endl;
  cout<<b<<endl;
  cfib(a, b, n-2);
-cout<<"nth term is "<<<< nfib(n);
+cout<<"nth term is "<< nfib(n);
 return 0;
 }
