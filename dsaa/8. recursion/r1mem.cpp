@@ -2,6 +2,7 @@
 using namespace std;
 
 int f[10];
+int rfib
 int mfib(int n)
     { 
     if(n<=1){
