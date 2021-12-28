@@ -3,7 +3,7 @@ using namespace std;
 int cfib(int a , int b , int n){
 int c ;
 if(n==0){
-    return 0;
+    return c;
     
 }
 c=a+b;
