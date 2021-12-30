@@ -10,7 +10,7 @@ int power(int x, int n){
         return 0;
     }
     if (n%2==0){   // n is even 
-        return power(x, n/2)* power(x, n/2);
+        return power(x, n/2)* power(x, n/2);2
     }
     else          //   n is odd 
         return power(x, n/2)* power(x, n/2)*x;
