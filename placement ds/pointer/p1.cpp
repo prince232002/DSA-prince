@@ -6,5 +6,5 @@ int main(){
 float p = 2.5;
 float* ptr = &f;
 (*ptr)++;
-cout<<
+cout<<f;
 }
