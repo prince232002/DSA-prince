@@ -2,8 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- int *ptr = 0;
-int a = 10;
-*ptr = a;
- cout << *ptr << endl;
+ int num =4;
+ cout <<num<<endl;
+ //address of opertor 
+ cout << address of num is  
 }
