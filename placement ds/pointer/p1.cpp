@@ -5,5 +5,5 @@ int main(){
  int num =4;
  cout <<num<<endl;
  //address of opertor 
- cout << address of  
+ cout << address of num  
 }
