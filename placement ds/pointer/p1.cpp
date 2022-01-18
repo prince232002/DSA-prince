@@ -2,8 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- float f = 10.5;
-float* ptr = &f;
-(*ptr)++;
-cout<<f;
+ int num =4;
+ cout <<num<<endl;
+ //address of opertor 
+ cout << address of num is  
 }
