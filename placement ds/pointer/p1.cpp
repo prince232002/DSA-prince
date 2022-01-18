@@ -4,5 +4,5 @@ using namespace std;
 int main(){
  char b[] ="xyz";
 char *c = &b[4];
-cout <<sizeof*c << endl;
+cout <<sizeof(*c << endl;
 }
