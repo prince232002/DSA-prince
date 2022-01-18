@@ -2,7 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
- char s[]= "hello";
-char *p = s;
-cout << s[0] << " " << p[1];
+ int num =4;
+ cout <<num<<endl;
+ //address of opertor 
+ cout << address of num is  
 }
