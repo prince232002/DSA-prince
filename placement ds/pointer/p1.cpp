@@ -3,6 +3,6 @@
 using namespace std;
 int main(){
  char s[]= "hello";
-char *p = s[0];
+char *p = ;
 cout << s[0] << " " << p[2];
 }
