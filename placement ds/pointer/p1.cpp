@@ -7,6 +7,6 @@ int main(){
   for(i = 0; i < 10; i++) {
     *(arr + i) = 65 + i;
   }
-  *(arr + i) = '\0';
+  *(arr + i) = '';
   cout << arr;
 }
