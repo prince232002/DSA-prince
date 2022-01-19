@@ -16,4 +16,3 @@ int arr[]={3,56,7,7};
 char ch[6]="abcde";   // always size is +1 as it stores null at end of char array 
 cout << &ch[6];
 }
-kk
