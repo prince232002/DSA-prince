@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void print(int p){
-    cout<< *
+    cout<< *p
 }
 int main(){
  int value =5;
