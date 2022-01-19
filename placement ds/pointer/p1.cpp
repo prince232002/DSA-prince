@@ -8,5 +8,6 @@ int main(){
 //  cout<< sizeof(ptr)<<endl;
 //  cout<< sizeof(*ptr)<<endl;
 ptr=ptr+1;
+
 cout<< arr<<endl;
 }
