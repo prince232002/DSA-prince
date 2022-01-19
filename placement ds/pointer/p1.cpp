@@ -7,5 +7,5 @@ int main(){
 //  cout<< sizeof(arr)<<endl;
 //  cout<< sizeof(ptr)<<endl;
 //  cout<< sizeof(*ptr)<<endl;
-
+ptr=ptr
 }
