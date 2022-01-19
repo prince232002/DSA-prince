@@ -8,7 +8,7 @@ int main(){
 //  cout<< sizeof(ptr)<<endl;
 //  cout<< sizeof(*ptr)<<endl;
 ptr=ptr+1;
-//error :as it is content inside symbol table 
+//error :as it is content inside symbol table so 
 //  arr=arr+1;
 cout<< cout<<endl;
 }
