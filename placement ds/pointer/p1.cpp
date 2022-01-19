@@ -10,5 +10,5 @@ int main(){
 ptr=ptr+1;
 //error :
 //  arr=arr+1;
-cout<< arr<<endl;
+cout<< cout<<endl;
 }
