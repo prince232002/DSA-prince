@@ -10,5 +10,5 @@ int main(){
 ptr=ptr+1;
 //error :as it is content inside symbol table so unchanged 
 //  arr=arr+1;
-cout << cout<<endl;
+cout << <<endl;
 }
