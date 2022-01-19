@@ -11,5 +11,5 @@ ptr=ptr+1;
 //error :as it is content inside symbol table so unchanged 
 //  arr=arr+1;
 cout << ptr <<endl;
-
+character arary 
 }
