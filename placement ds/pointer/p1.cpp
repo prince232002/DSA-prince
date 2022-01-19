@@ -14,5 +14,5 @@ int main(){
 // character arary :
 int arr[]={3,56,7,7};
 char ch[6]="abcde";   // always size is +! as it stores null at end of char array 
-cout << &ch[2];
+cout << &c;
 }
