@@ -3,6 +3,6 @@ using namespace std;
 int main(){
  int value =5;
  int *p= &value ;
- print (P);
- 
+ print (p);
+
 }
