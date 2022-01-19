@@ -12,5 +12,5 @@ ptr=ptr+1;
 //  arr=arr+1;
 cout << ptr <<endl;
 // character arary :
-int arr[]
+int arr[]=
 }
