@@ -6,6 +6,5 @@ int main(){
  char *ptr; 
   char Str[] = "abcdefg";
   ptr = Str;
-//   ptr += 5;
   cout << ptr;
 }
