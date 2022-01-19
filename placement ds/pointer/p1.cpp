@@ -7,7 +7,7 @@ int main(){
 //  cout<< sizeof(arr)<<endl;
 //  cout<< sizeof(ptr)<<endl;
 //  cout<< sizeof(*ptr)<<endl;
-ptr=ptr+1;
+// ptr=ptr+1;
 //error :as it is content inside symbol table so unchanged 
 //  arr=arr+1;
 cout << ptr <<endl;
