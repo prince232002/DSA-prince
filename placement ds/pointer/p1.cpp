@@ -4,5 +4,3 @@ using namespace std;
 int main(){
  
  char *ptr; 
-  char Str[] = "abcdefg";
-}
