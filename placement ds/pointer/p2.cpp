@@ -3,7 +3,7 @@ using namespace std;
 void print(int *p){
     cout<< *p<<endl;
 }
-void print(int *p){
+void (int *p){
     cout<< *p<<endl;
 }
 
