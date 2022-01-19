@@ -13,5 +13,5 @@ ptr=ptr+1;
 cout << ptr <<endl;
 // character arary :
 int arr[]={3,56,7,7};
-char ch[6]
+char ch[6]=
 }
