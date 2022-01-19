@@ -1,5 +1,6 @@
 
-#include<bits/stdc++.h>q
+#include<bits/stdc++.h>
+using namespace std;
 int main(){
  int arr[11];
  int *ptr= &arr[0];
