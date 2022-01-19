@@ -5,6 +5,4 @@ int main(){
  
  char *ptr; 
   char Str[] = "abcdefg";
-  ptr = Str;
-  cout << ptr;
 }
